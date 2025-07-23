@@ -1,11 +1,11 @@
-package com.auraflow.[servicename];
+package com.auraflow.inventoryservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class [ServiceClassName] {
+public class InventoryServiceApplication {
     public static void main(String[] args) {
-        SpringApplication.run([ServiceClassName].class, args);
+        SpringApplication.run(InventoryServiceApplication.class, args);
     }
 }

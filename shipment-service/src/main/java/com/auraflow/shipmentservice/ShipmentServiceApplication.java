@@ -1,11 +1,11 @@
-package com.auraflow.[servicename];
+package com.auraflow.shipmentservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class [ServiceClassName] {
+public class ShipmentServiceApplication {
     public static void main(String[] args) {
-        SpringApplication.run([ServiceClassName].class, args);
+        SpringApplication.run(ShipmentServiceApplication.class, args);
     }
 }
