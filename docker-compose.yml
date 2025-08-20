@@ -16,3 +16,17 @@ services:
     build: ./worker-service
     ports:
       - "8084:8084"
+  
+  # Local DynamoDB for development/testing
+  dynamodb-local:
+    image: amazon/dynamodb-local
+    ports:
+      - "8000:8000"
+
+  # LocalStack for local AWS SQS and SNS emulation
+  localstack:
+    image: localstack/localstack
+    ports:
+      - "4566:4566"
+    environment:
+      - SERVICES=sqs,sns
