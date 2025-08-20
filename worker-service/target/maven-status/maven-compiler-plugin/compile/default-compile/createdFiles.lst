@@ -1,1 +1,7 @@
+com\auraflow\workerservice\service\SqsMessageConsumer.class
+com\auraflow\workerservice\service\AutoScaler.class
 com\auraflow\workerservice\WorkerServiceApplication.class
+com\auraflow\workerservice\service\ErrorHandler.class
+com\auraflow\workerservice\service\EventSourcingManager.class
+com\auraflow\workerservice\service\MessageProcessor.class
+com\auraflow\workerservice\service\SagaManager.class

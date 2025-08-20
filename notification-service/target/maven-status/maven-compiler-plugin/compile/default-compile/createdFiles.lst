@@ -1,3 +1,6 @@
 com\auraflow\notificationservice\NotificationServiceApplication.class
-com\auraflow\notificationservice\model\Notification.class
+com\auraflow\notificationservice\service\NotificationTriggerService.class
+com\auraflow\notificationservice\model\NotificationTemplate.class
 com\auraflow\notificationservice\service\NotificationService.class
+com\auraflow\notificationservice\model\Notification.class
+com\auraflow\notificationservice\service\SnsPublisherService.class

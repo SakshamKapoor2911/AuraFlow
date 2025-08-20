@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.auraflow.shipmentservice.service.ShipmentServiceImplTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.535 s -- in com.auraflow.shipmentservice.service.ShipmentServiceImplTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.572 s -- in com.auraflow.shipmentservice.service.ShipmentServiceImplTest
