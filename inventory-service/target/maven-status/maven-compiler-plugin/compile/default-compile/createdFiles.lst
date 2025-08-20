@@ -1,1 +1,10 @@
+com\auraflow\inventoryservice\repository\ProductRepository.class
+com\auraflow\inventoryservice\model\Product$Builder.class
+com\auraflow\inventoryservice\model\Product.class
+com\auraflow\inventoryservice\config\SqsConfig.class
+com\auraflow\inventoryservice\controller\ProductController.class
 com\auraflow\inventoryservice\InventoryServiceApplication.class
+com\auraflow\inventoryservice\config\DynamoDbConfig.class
+com\auraflow\inventoryservice\service\impl\ProductServiceImpl.class
+com\auraflow\inventoryservice\event\InventoryEventPublisher.class
+com\auraflow\inventoryservice\service\ProductService.class

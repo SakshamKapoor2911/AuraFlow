@@ -1,1 +1,8 @@
+com\auraflow\shipmentservice\config\DynamoDbConfig.class
+com\auraflow\shipmentservice\controller\ShipmentController.class
+com\auraflow\shipmentservice\model\Shipment.class
+com\auraflow\shipmentservice\service\ShipmentService.class
 com\auraflow\shipmentservice\ShipmentServiceApplication.class
+com\auraflow\shipmentservice\service\impl\ShipmentServiceImpl.class
+com\auraflow\shipmentservice\event\ShipmentEventPublisher.class
+com\auraflow\shipmentservice\repository\ShipmentRepository.class

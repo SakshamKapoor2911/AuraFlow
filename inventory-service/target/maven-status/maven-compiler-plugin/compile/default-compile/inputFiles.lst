@@ -1,1 +1,9 @@
+C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\config\DynamoDbConfig.java
+C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\config\SqsConfig.java
+C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\controller\ProductController.java
+C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\event\InventoryEventPublisher.java
 C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\InventoryServiceApplication.java
+C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\model\Product.java
+C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\repository\ProductRepository.java
+C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\service\impl\ProductServiceImpl.java
+C:\Users\Saksham Kapoor\Desktop\FAANG SWE\AuraFlow\inventory-service\src\main\java\com\auraflow\inventoryservice\service\ProductService.java

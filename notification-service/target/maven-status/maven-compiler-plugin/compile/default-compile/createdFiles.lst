@@ -1,1 +1,3 @@
 com\auraflow\notificationservice\NotificationServiceApplication.class
+com\auraflow\notificationservice\model\Notification.class
+com\auraflow\notificationservice\service\NotificationService.class

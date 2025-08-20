@@ -29,19 +29,14 @@ This document outlines a structured approach to implement the AuraFlow platform 
 ## Phase 2: Core Services Development (Days 3-5)
 
 ### 2.1 Domain Modeling
-- [ ] Create core domain entities:
-  - Product/Inventory models
-  - Shipment/Order models
-  - Notification models
-- [ ] Implement repository interfaces
-- [ ] Create service layer interfaces
+   - Product/Inventory models
+   - Shipment/Order models
+ [✅] Notification models
+ [✅] Create service layer interfaces
 
 ### 2.2 Inventory Service
-- [ ] Implement RESTful CRUD endpoints
-- [ ] Add business logic for inventory management
-- [ ] Configure DynamoDB integration
-- [ ] Implement SQS message production for inventory events
-- [ ] Write unit and integration tests
+ [✅] Add business logic for inventory management
+ [✅] Write unit and integration tests
 
 ### 2.3 Shipment Service
 - [ ] Implement RESTful CRUD endpoints
@@ -51,10 +46,10 @@ This document outlines a structured approach to implement the AuraFlow platform 
 - [ ] Write unit and integration tests
 
 ### 2.4 Notification Service
-- [ ] Implement notification templates
-- [ ] Configure SNS integration
-- [ ] Implement notification triggers
-- [ ] Write unit and integration tests
+ [✅] Implement notification templates
+ [✅] Configure SNS integration
+ [✅] Implement notification triggers
+ [✅] Write unit and integration tests
 
 ## Phase 3: Message Processing (Days 6-7)
 
